@@ -2,7 +2,6 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>OpenCV Learning Material</title>
   </head>
   <body>
     <h1>OpenCV Learning Material</h1>
